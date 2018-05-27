@@ -1,0 +1,11 @@
+js se check image size and before uploading convert into to thumbnail size for all photos and then upload.
+username duplicacy.
+when you use WYSIWYG plugin then it adds automatic html tags to the text but jab hum substring karre hai there is a probability ki you may break the html tag somewhere to wo fatega.
+
+read about DMAT
+
+preview post
+
+next and previous in pagination
+
+autologout works only on refresh or else it allows admin to work.is it a bug?
